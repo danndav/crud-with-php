@@ -1,0 +1,10 @@
+body {
+    font-family: 'open-sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+    background-color: #56a79a;
+}
+.container{
+  margin:auto;
